@@ -1,0 +1,6 @@
+.gallery__karachaevsk__photo {
+    background-image: url('../../../../img/karachaevsk.jpg');
+    height: 282px;
+    width: 282px;
+    border-radius: 10px 10px 0px 0px;
+}

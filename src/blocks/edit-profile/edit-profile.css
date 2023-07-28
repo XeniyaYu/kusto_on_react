@@ -1,0 +1,15 @@
+.edit-profile {
+    width: 430px;
+    height: 330px;
+    position:absolute;
+    top: 14%;
+    left: 30%;
+    text-align: center;
+    background: white;
+    border: 2px solid white;
+    display: none;
+    border-radius: 10px;
+}
+.visible {
+    display:block;
+}

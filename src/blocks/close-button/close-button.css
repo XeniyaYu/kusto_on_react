@@ -1,0 +1,17 @@
+.close-button {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    background-image: url('../../img/Close_Icon.svg');
+    background-color: black;
+    position: absolute;
+    left: 102%;
+    top: -12%;
+    display: none;
+    border: none;
+
+    cursor: pointer;
+}
+.visible {
+    display: block;
+}

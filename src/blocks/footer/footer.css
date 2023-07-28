@@ -1,0 +1,14 @@
+.footer {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #545454;
+    margin: 66px auto 0 auto;
+    max-width: 880px;
+    min-width: 320px;
+    /* margin: 0 auto; */
+    
+}

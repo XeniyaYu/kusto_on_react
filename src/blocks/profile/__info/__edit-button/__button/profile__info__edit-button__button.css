@@ -1,0 +1,10 @@
+.profile__info__edit-button__button {
+    height: 24px;
+    width: 24px;
+    border-style: 2 px solid;
+    border-color: white;
+    background-color: black;
+    /* background: url('../../../../../img/pencil.svg'); */
+    margin-left: 18px;
+    cursor: pointer;
+}

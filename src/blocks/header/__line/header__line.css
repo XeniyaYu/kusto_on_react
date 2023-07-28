@@ -1,0 +1,8 @@
+.header__line {
+    width: 880px;
+    /* border: 1px; */
+    margin-top: 41px;
+    /* margin-left: 200px; */
+    opacity: 70%;
+    color: #545454;
+}
