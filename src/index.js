@@ -17,7 +17,26 @@ root.render(
       <Main />
       <Footer />
     </div>
-    
+    {/* <script>
+            let editButton = document.querySelector('.profile__info__edit-button__button');
+            let closeButton = document.querySelector('.close-button');
+            let saveButton = document.querySelector('.edit-profile__save-button');
+            let editBlock = document.querySelector('.edit-profile');
+            editButton.addEventListener('click', function (e) {
+                editBlock.classList.toggle('visible');
+
+            });
+            editButton.addEventListener('click', function () {
+                closeButton.classList.toggle('visible')
+            });
+            closeButton.addEventListener('click', function () {
+                    editBlock.classList.remove('visible');
+                    closeButton.classList.remove('visible');
+                }
+            )
+            
+            
+        </script> */}
   </React.StrictMode>
 );
 
